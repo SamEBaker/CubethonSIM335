@@ -1,0 +1,10 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="Credits">
+			<method name="Quit"/>
+		</type>
+		<type fullname="Menu">
+			<method name="StartGame"/>
+		</type>
+	</assembly>
+</linker>
